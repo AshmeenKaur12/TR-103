@@ -33,7 +33,7 @@ By the end of the training, I gained practical knowledge of:
 - Version control using Git and GitHub
 
 ## Author
-**Name:** Mehak Kaur
+**Name:** Ashmeen Kaur
 
 **Technology:** MERN Stack
 

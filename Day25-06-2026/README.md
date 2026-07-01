@@ -1,7 +1,7 @@
 # HTML Training - Day 1
 
 ## Overview
-This repository contains the HTML programs completed on **Day 1** of Web Development Training. The exercises focus on learning the basics of HTML, including webpage structure, text formatting, and table creation.
+This repository contains the HTML programs completed on **Day 1** of MERN Stack Training. The exercises focus on learning the basics of HTML, including webpage structure, text formatting, and table creation.
 
 ## Programs
 
@@ -58,5 +58,5 @@ This repository contains the HTML programs completed on **Day 1** of Web Develop
 ---
 
 **Author:** Ashmeen Kaur  
-**Training:** Web Developmen Training  
+**Training:** MERN Stack Training  
 **Day:** 1

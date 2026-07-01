@@ -1,4 +1,8 @@
-# HTML Training - Day 1
+#  MERN Stack Training - Daily Diary
+
+## Day 1
+
+**Date:** 25-06-2026
 
 ## Overview
 This repository contains the HTML programs completed on **Day 1** of MERN Stack Training. The exercises focus on learning the basics of HTML, including webpage structure, text formatting, and table creation.
@@ -59,4 +63,4 @@ This repository contains the HTML programs completed on **Day 1** of MERN Stack 
 
 **Author:** Ashmeen Kaur  
 **Training:** MERN Stack Training  
-**Day:** 1
+**URN:** 2302486

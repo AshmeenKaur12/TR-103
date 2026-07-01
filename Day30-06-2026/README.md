@@ -101,7 +101,6 @@ By the end of today's session, I was able to:
 ## Outcome
 
 Today's training provided a comprehensive understanding of the CSS Box Model and its role in webpage design. Through practical exercises, I learned how to control spacing, borders, padding, margins, and element positioning using CSS. I also gained hands-on experience in creating different box designs, circular shapes, and nested layouts. This session strengthened my CSS fundamentals and prepared me for advanced topics such as CSS Positioning, Flexbox, Grid Layout, and Responsive Web Design.
-```
 
 **Author:** Ashmeen Kaur  
 **Training:** MERN Stack Training  

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Box Model</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color:rgb(15,28,146);
+}
+
+.a{
+    width:1700px;
+    height:800px;
+    background:#30aad2;
+    margin:100px auto;
+    padding:100px;
+}
+
+.b{
+    width:100%;
+    height:100%;
+    background:#1c0761;
+    padding:100px;
+}
+
+.c{
+    width:100%;
+    height:100%;
+    background:#34389f;
+    padding:100px;
+}
+
+.d{
+    width:100%;
+    height:100%;
+    background:#eda126;
+    text-align:center;
+    line-height:200px;   /* Vertically center text */
+}
+
+.d h1{
+    color:black;
+    font-size:40px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="a">
+    <div class="b">
+        <div class="c">
+            <div class="d">
+                <h1>CONTENT</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
